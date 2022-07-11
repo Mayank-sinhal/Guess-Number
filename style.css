@@ -181,7 +181,7 @@ h1 {
   }
 }
 
-@media (max-height: 400px) {
+@media (max-height: 500px) {
   .guess {
     font-size: 2rem;
     padding: 1rem;
