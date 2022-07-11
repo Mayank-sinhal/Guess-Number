@@ -197,6 +197,7 @@ h1 {
     position: absolute;
     bottom: 20vh;
     right: 2.7rem;
+    display: none;
   }
   .label-highscore {
     font-size: 12px;
